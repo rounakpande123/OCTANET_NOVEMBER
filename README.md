@@ -1,2 +1,3 @@
 # OCTANET_NOVEMBER
 TASK 1: Landing page
+TASK 2: TO-DO LIST
